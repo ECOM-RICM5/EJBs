@@ -1,17 +1,17 @@
 # ECOM
 
 #Partie GL:
-- Organisation de l'équipe (roles, ...):
-  -Chef de projet:   Yacine
-  -Scrum Master:     Adrien Delaporte
-  -Porte Parole:     Benjamin
-  -Scrib:            Adrien Mouret
+- Organisation de l'équipe (roles, ...):<br>
+  -Chef de projet:   Yacine<br>
+  -Scrum Master:     Adrien Delaporte<br>
+  -Porte Parole:     Benjamin<br>
+  -Scrib:            Adrien Mouret<br>
   
-- Méthodologie de travail:
+- Méthodologie de travail:<br>
 
-- Planning (envisagé):
+- Planning (envisagé):<br>
 
-- Technologie utilisées:
-  -Serveur hébergeur: Glassfish
-  -Base de données: MySQL
-  -Framework: W3Layout
+- Technologie utilisées:<br>
+  -Serveur hébergeur: Glassfish<br>
+  -Base de données: MySQL<br>
+  -Framework: W3Layout<br>
