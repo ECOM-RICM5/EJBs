@@ -34,7 +34,7 @@ Exemples :  <br> 1.  http://www.annoncesbateau.com/ <br>
 <br>
 Remarques : <br> 1. Moche, ressemble à leboncoin.fr, procedure d'achat simple et intuitive <br>
             2. Très moche, pas intuitif, brouillon, recherche non simple, nul, site de vente séparé et plus ergonomique <br>
-            3. 19€ pour déposer une annonce, trop de borel, vite perdu, formulaire en ligne non adapté <br>
+            3. 19€ pour déposer une annonce, trop de bordel, vite perdu, formulaire en ligne non adapté <br>
             4. Recherche non adapté (ex : jetski -> longueur ?), détails plus compréhensibles que sur les autres sites, contact simple, système d'onglets intéressant <br>
            <br>
 - Utilisateurs cibles : Particuliers <br>
