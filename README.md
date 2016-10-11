@@ -55,5 +55,6 @@ Nombre de Beans (diagramme de classe, type, ...)
 <br>
 Extensions réalisées et envisagées
 <br>
-Etat d'avancement dans les développements
+Etat d'avancement dans les développements:
+  - IHM prète, cependant, il n'y a rien dans le back-end
 <br>
