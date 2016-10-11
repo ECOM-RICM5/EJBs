@@ -9,7 +9,7 @@
   
 - Méthodologie de travail:<br>
   -Prise en main des differentes technologies<br>
-  -Premières pages dans Glassfish avec un Framework<br>
+  -Premières pages dans Glassfish avec un Framework (boodstrap)<br>
   
 - Planning (envisagé):<br>
   -Définition des technologies utilisées<br>
