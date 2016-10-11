@@ -22,7 +22,7 @@
 - Technologies utilisées:<br>
   -Serveur hébergeur: Glassfish<br>
   -Base de données: MySQL<br>
-  -Framework: W3Layout<br>
+  -Framework: W3Layout, Angular<br>
 
 
 #Partie IHM :
