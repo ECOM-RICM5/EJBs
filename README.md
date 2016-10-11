@@ -8,10 +8,18 @@
   -Scrib:            Adrien Mouret<br>
   
 - Méthodologie de travail:<br>
-
+  -Prise en main des differentes technologies<br>
+  -Premières pages dans Glassfish avec un Framework<br>
+  
 - Planning (envisagé):<br>
+  -Définition des technologies utilisées<br>
+  -Test de ces technologies<br>
+  -Analyse de la concurrence<br>
+  -Architecture du site ( diagramme de tache, cas d'utilisation ... )<br>
+  -Interface du site web<br>
+  -Gestion de la base de données<br>
 
-- Technologie utilisées:<br>
+- Technologies utilisées:<br>
   -Serveur hébergeur: Glassfish<br>
   -Base de données: MySQL<br>
   -Framework: W3Layout<br>
