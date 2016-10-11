@@ -37,8 +37,8 @@ Remarques : <br> 1. Moche, ressemble à leboncoin.fr, procedure d'achat simple e
             3. 19€ pour déposer une annonce, trop de borel, vite perdu, formulaire en ligne non adapté <br>
             4. Recherche non adapté (ex : jetski -> longueur ?), détails plus compréhensibles que sur les autres sites, contact simple, système d'onglets intéressant
            <br>
-- Utilisateurs cibles : <br>
-            Particuliers
+- Utilisateurs cibles : Particuliers <br>
+            
 <br>
 Contexte d’utilisation et objectifs utilisateurs : <br>
         - Pousser l'utilisateur à l'achat
