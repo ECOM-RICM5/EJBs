@@ -36,11 +36,24 @@ Remarques : <br> 1. Moche, ressemble à leboncoin.fr, procedure d'achat simple e
             2. Très moche, pas intuitif, brouillon, recherche non simple, nul, site de vente séparé et plus ergonomique <br>
             3. 19€ pour déposer une annonce, trop de borel, vite perdu, formulaire en ligne non adapté <br>
             4. Recherche non adapté (ex : jetski -> longueur ?), détails plus compréhensibles que sur les autres sites, contact simple, système d'onglets intéressant
-            
-Remarques générales : <br>
-              - 
- 
- 
- 
-Utilisateurs cibles, contexte d’utilisation et objectifs utilisateurs (ie objectifs de l’IHM)
-Maquettes de la v0 et squelette du site (pour la plateforme cible)
+           <br>
+- Utilisateurs cibles : <br>
+            Particuliers
+<br>
+Contexte d’utilisation et objectifs utilisateurs : <br>
+        - Pousser l'utilisateur à l'achat
+        - Utilisateur pas forcement familier de l'outil informatique -> IHM simpliste et intuitive
+        <br>
+Maquettes de la v0 et squelette du site (pour la plateforme cible) : <br>
+
+
+<br>
+#Partie Système<br>
+Architecture systeme du service : 
+<br>
+Nombre de Beans (diagramme de classe, type, ...)
+<br>
+Extensions réalisées et envisagées
+<br>
+Etat d'avancement dans les développements
+<br>
